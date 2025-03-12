@@ -1,0 +1,7 @@
+C:\Users\Volkan\source\repos\PROJE2\PROJE2\bin\Debug\PROJE2.exe.config
+C:\Users\Volkan\source\repos\PROJE2\PROJE2\bin\Debug\PROJE2.exe
+C:\Users\Volkan\source\repos\PROJE2\PROJE2\bin\Debug\PROJE2.pdb
+C:\Users\Volkan\source\repos\PROJE2\PROJE2\obj\Debug\PROJE2.csproj.AssemblyReference.cache
+C:\Users\Volkan\source\repos\PROJE2\PROJE2\obj\Debug\PROJE2.csproj.CoreCompileInputs.cache
+C:\Users\Volkan\source\repos\PROJE2\PROJE2\obj\Debug\PROJE2.exe
+C:\Users\Volkan\source\repos\PROJE2\PROJE2\obj\Debug\PROJE2.pdb
