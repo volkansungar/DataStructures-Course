@@ -1,0 +1,7 @@
+C:\Users\Volkan\source\repos\Proje1part2\Proje1part2\bin\Debug\Proje1part2.exe.config
+C:\Users\Volkan\source\repos\Proje1part2\Proje1part2\bin\Debug\Proje1part2.exe
+C:\Users\Volkan\source\repos\Proje1part2\Proje1part2\bin\Debug\Proje1part2.pdb
+C:\Users\Volkan\source\repos\Proje1part2\Proje1part2\obj\Debug\Proje1part2.csproj.AssemblyReference.cache
+C:\Users\Volkan\source\repos\Proje1part2\Proje1part2\obj\Debug\Proje1part2.csproj.CoreCompileInputs.cache
+C:\Users\Volkan\source\repos\Proje1part2\Proje1part2\obj\Debug\Proje1part2.exe
+C:\Users\Volkan\source\repos\Proje1part2\Proje1part2\obj\Debug\Proje1part2.pdb
